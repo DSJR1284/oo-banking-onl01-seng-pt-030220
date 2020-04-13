@@ -20,7 +20,7 @@ class Transfer
 
   def execute_transaction
     if @sender.balance > @amount
-      @stauts = valid
+      @stauts == "pending"
     else
 
     end
