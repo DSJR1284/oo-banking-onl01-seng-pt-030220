@@ -20,7 +20,7 @@ class Transfer
 
   def execute_transaction
     if @sender.balance > @amount and @status
-      
+
 
     end
   end
