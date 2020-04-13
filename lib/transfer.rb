@@ -19,10 +19,10 @@ class Transfer
   end
 
   def execute_transaction
-    # if @sender.balance > @recevier.balance
-    # else
-    #
-    # end
+    if @sender.balance > @amount 
+    else
+    
+    end
   end
 
 end
