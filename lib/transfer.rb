@@ -19,9 +19,9 @@ class Transfer
   end
 
   def execute_transaction
-    if @sender.balance > @recevier.balance 
+    if @sender.balance > @recevier.balance
     else
-      
+
     end
   end
 
