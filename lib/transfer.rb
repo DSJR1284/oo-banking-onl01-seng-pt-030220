@@ -19,6 +19,7 @@ class Transfer
   end
 
   def execute_transaction
+    if @sender > @recevier ==@status = "complete"
 
   end
 
