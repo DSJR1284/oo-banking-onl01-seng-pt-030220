@@ -10,8 +10,7 @@ class BankAccount
   end
 
   def deposit(money)
-
-
+    deposit += money 
   end
 
 end
