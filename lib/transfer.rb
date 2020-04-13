@@ -20,6 +20,7 @@ class Transfer
 
   def execute_transaction
     if @sender.balance > @amount
+      @stauts = vaild
     else
 
     end
